@@ -1,14 +1,14 @@
 {
     "win32-x64-prod": {
       "readme": "Version 0.1.8",
-      "update": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/win32-x64-prod-v0.0.6",
-      "install": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/win32-x64-prod-v0.0.6/ProfilePass.Setup.0.0.6.exe",
+      "update": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/win32-x64-prod-v0.1.8",
+      "install": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/win32-x64-prod-v0.1.8/ProfilePass.Setup.0.1.8.exe",
       "version": "0.1.8"
     },
     "darwin-x64-prod": {
       "readme": "Version 0.1.8",
-      "update": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/darwin-x64-prod-v0.0.6/release.json",
-      "install": "https://github.com/msistrunk/ProfilepassUpdates/releases/download/darwin-x64-prod-v0.0.6/ProfilePass-0.0.6.dmg",
+      "update": "https://github.com/msistrunk/ProfilePassUpdates/releases/download/darwin-x64-prod-v0.1.8/release.json",
+      "install": "https://github.com/msistrunk/ProfilepassUpdates/releases/download/darwin-x64-prod-v0.1.8/ProfilePass-0.1.8.dmg",
       "version": "0.1.8"
     }
   }
